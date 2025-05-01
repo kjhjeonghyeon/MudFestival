@@ -41,7 +41,8 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 1
     motionNodeName: 
-    rigImportErrors: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
     rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
@@ -106,7 +107,27 @@ ModelImporter:
   humanDescription:
     serializedVersion: 3
     human: []
-    skeleton: []
+    skeleton:
+    - name: Muddy(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube.109
+      parentName: Muddy(Clone)
+      position: {x: -37.92785, y: 15.133185, z: -230.96968}
+      rotation: {x: 0.52064383, y: 0.47846633, z: 0.5206438, w: -0.47846636}
+      scale: {x: 0.17186703, y: 0.17186704, z: 5.373673}
+    - name: Retopo_Cube
+      parentName: Muddy(Clone)
+      position: {x: 15.883424, y: 0.7782023, z: -214.55136}
+      rotation: {x: -0.7071069, y: 1.6000165e-16, z: -5.068426e-17, w: 0.7071067}
+      scale: {x: 1136.34, y: 1136.34, z: 1136.34}
+    - name: body
+      parentName: Muddy(Clone)
+      position: {x: -15.172984, y: 0.75363195, z: -214.35013}
+      rotation: {x: -0.7071069, y: 2.7341367e-17, z: -1.6249817e-15, w: 0.7071067}
+      scale: {x: 1361.5476, y: 1361.5486, z: 1361.5486}
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5

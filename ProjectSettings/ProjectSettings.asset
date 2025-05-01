@@ -865,11 +865,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 2
-  cloudProjectId: 
+  cloudProjectId: 63e9a018-8cda-4213-928b-f1a7fe3ec053
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: MudFestival
+  organizationId: kimjeonghyeon
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 

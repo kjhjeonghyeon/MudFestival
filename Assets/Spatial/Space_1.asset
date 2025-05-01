@@ -25,10 +25,10 @@ MonoBehaviour:
   embeddedPackageAssets: []
   networkPrefabs:
   - referenceType: 2
-    networkObject: {fileID: 3130644739431093245, guid: cfbb5fdd87341614b9637c8f8df1cd6b,
+    networkObject: {fileID: 450519029063449114, guid: ba3fd0d300850a043b11b8499335136f,
       type: 3}
   - referenceType: 2
-    networkObject: {fileID: 450519029063449114, guid: ba3fd0d300850a043b11b8499335136f,
+    networkObject: {fileID: 744250705209489559, guid: 534a96356d452774e83072f8e83a688d,
       type: 3}
   - referenceType: 2
     networkObject: {fileID: 2432589797781502965, guid: 7a4ac12886fcae245a6bc7466fa672fd,
