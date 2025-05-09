@@ -16,7 +16,8 @@ Material:
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap: {}
+  stringTagMap:
+    RenderType: Opaque
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
@@ -62,7 +63,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_12fbe06f98c94712b73e7857d6baa453_Texture_1:
-        m_Texture: {fileID: 2800000, guid: 07ef1a3d68432794a9d70f545868137e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 27dcac97c77064349b5278157901e387, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_496c6ad404444a5385ebf8a1fff5721a_Texture_1:
@@ -70,11 +71,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_b359e1a4c9044dec95b940b9557b00b2_Texture_1:
-        m_Texture: {fileID: 2800000, guid: a1257fafb620a3d49bd540e47e849ee4, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2d0eaf0b58831b049afa39bf24ea07c5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_47f5fcbd05e14bea9337ed88e6f31a00_Out_0:
+        m_Texture: {fileID: 2800000, guid: 2a92ec3b24546c447ae2a5f5da6f3db8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -94,6 +99,7 @@ Material:
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
+    - _CastShadows: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 2
@@ -117,13 +123,15 @@ Material:
     - _SrcBlend: 1
     - _Surface: 0
     - _WorkflowMode: 1
+    - _ZTest: 4
     - _ZWrite: 1
+    - _ZWriteControl: 0
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _tile: {r: 400, g: 400, b: 0, a: 0}
+    - _tile: {r: 600, g: 600, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &1643352300401004599
 MonoBehaviour:

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4458657489969314180}
   - component: {fileID: 8561057490937257667}
   - component: {fileID: 2242629278920167951}
+  - component: {fileID: 5290428696199317250}
   m_Layer: 0
   m_Name: Guard02.001
   m_TagString: Untagged
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &5290428696199317250
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 55800835010071537}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -1651080863066034989, guid: 2e47084ed814c854ead476d05e787fb2, type: 3}
