@@ -16,7 +16,7 @@ MonoBehaviour:
   sku: 
   packageName: Sususupernova
   thumbnail: {fileID: 2800000, guid: cc904d74f47d6e9458ab4487caf29526, type: 3}
-  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+  savedProjectSettings: {fileID: 11400000, guid: acd41ecdda3cd9f46871bd87e1bc5669,
     type: 2}
   prefab: {fileID: 2246689178863538523, guid: 7c35947f1e93ce04385aed06a9020315, type: 3}
   usageContext: 1
