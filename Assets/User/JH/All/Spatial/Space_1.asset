@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_1
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: uldgdqymx7nd33qwa193cin7
+  packageName: Mud_map
+  thumbnail: {fileID: 2800000, guid: 8556be473992b42dbb7035908e118623, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: azr4rrr0pant7uf7k0x87
+  scene: {fileID: 102900000, guid: 25631ff531293324bbced7b9ae6661dd, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 4690825971c2f8d4d9a1e425a7ba0a77,
+    type: 3}
+  embeddedPackageAssets: []
+  networkPrefabs:
+  - referenceType: 2
+    networkObject: {fileID: 450519029063449114, guid: ba3fd0d300850a043b11b8499335136f,
+      type: 3}
+  - referenceType: 2
+    networkObject: {fileID: 744250705209489559, guid: 534a96356d452774e83072f8e83a688d,
+      type: 3}
+  - referenceType: 2
+    networkObject: {fileID: 2432589797781502965, guid: 7a4ac12886fcae245a6bc7466fa672fd,
+      type: 3}
+  - referenceType: 2
+    networkObject: {fileID: 5022466655677367684, guid: 2b004c73689229340af77f07a5776556,
+      type: 3}
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 1
+    serverInstanceCapacity: 20
