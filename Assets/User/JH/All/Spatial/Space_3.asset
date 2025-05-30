@@ -15,11 +15,11 @@ MonoBehaviour:
   version: 1
   sku: 
   packageName: test
-  thumbnail: {fileID: 2800000, guid: 8556be473992b42dbb7035908e118623, type: 3}
-  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+  thumbnail: {fileID: 2800000, guid: 4e39fc512ebf5d44a8014e4e2c548ad7, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: acd41ecdda3cd9f46871bd87e1bc5669,
     type: 2}
   worldID: 
-  scene: {fileID: 102900000, guid: 12c3a4570166c1b438166e7488c10163, type: 3}
+  scene: {fileID: 102900000, guid: 260841462a0098c4ea1b7bc5a722a688, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: 4690825971c2f8d4d9a1e425a7ba0a77,
     type: 3}
   embeddedPackageAssets: []
