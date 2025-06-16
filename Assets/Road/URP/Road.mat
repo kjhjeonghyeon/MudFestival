@@ -21,9 +21,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Road
-  m_Shader: {fileID: -6465566751694194690, guid: a1867883cca04964783da6fb88f9ca92, type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
+  m_Shader: {fileID: -6465566751694194690, guid: a1867883cca04964783da6fb88f9ca92,
+    type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -32,7 +31,6 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -50,28 +48,26 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BUILTIN_QueueControl: 0
-    - _BUILTIN_QueueOffset: 0
     - _Centre_Gaps_Amount: 2
-    - _Centre_Noise_Amount: 161.38
-    - _Centre_Normal_Height: 58.8
-    - _Centre_Roughness: 0.955
-    - _Centre_Width: 0.15
-    - _Edge_Gap: 0.15
-    - _Edge_Noise_Amount: 130.7
-    - _Edge_Normal_Height: 33.72
-    - _Edge_Roughness: 0.414
-    - _Edge_Width: 0.09
+    - _Centre_Noise_Amount: 150
+    - _Centre_Normal_Height: 2
+    - _Centre_Roughness: 0.5
+    - _Centre_Width: 0.2
+    - _Edge_Gap: 0.1
+    - _Edge_Noise_Amount: 75
+    - _Edge_Normal_Height: 10
+    - _Edge_Roughness: 0.5
+    - _Edge_Width: 0.15
     - _Normal_Strength: 0.01
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Road_Noise_Amount: 307.1
-    - _Road_Normal_Height: -0.33
-    - _Road_Roughness: 0.424
+    - _Road_Noise_Amount: 70
+    - _Road_Normal_Height: 2
+    - _Road_Roughness: 0.5
     m_Colors:
-    - _Centre_Color: {r: 1, g: 1, b: 1, a: 0}
-    - _Edge_Color: {r: 1, g: 0.6744842, b: 0, a: 0}
-    - _Road_Color: {r: 0.0471698, g: 0.0471698, b: 0.0471698, a: 0}
+    - _Centre_Color: {r: 0.74213827, g: 0.74213827, b: 0.74213827, a: 0}
+    - _Edge_Color: {r: 0.59119487, g: 0.45383263, b: 0.16917829, a: 0}
+    - _Road_Color: {r: 0.047169775, g: 0.047169775, b: 0.047169775, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &5351176024853079146
 MonoBehaviour:

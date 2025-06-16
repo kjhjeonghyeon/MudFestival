@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC730288-2516-E4C8-6870-FE937024FBFB}|Mub.csproj|c:\\users\\user\\desktop\\kimjh\\github\\mudfestival\\assets\\user\\jh\\2.kimjh\\4.scipt\\footprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C8C7AB8-203B-D811-2C6A-F85978752B44}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\kimjh\\github\\mudfestival\\assets\\user\\jh\\6.anim\\dronanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8C7AB8-203B-D811-2C6A-F85978752B44}|Assembly-CSharp.csproj|solutionrelative:assets\\user\\jh\\6.anim\\dronanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8C7AB8-203B-D811-2C6A-F85978752B44}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\kimjh\\github\\mudfestival\\assets\\user\\jh\\6.anim\\dronctl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8C7AB8-203B-D811-2C6A-F85978752B44}|Assembly-CSharp.csproj|solutionrelative:assets\\user\\jh\\6.anim\\dronctl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC730288-2516-E4C8-6870-FE937024FBFB}|Mub.csproj|C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\assets\\user\\jh\\2.kimjh\\4.scipt\\footprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC730288-2516-E4C8-6870-FE937024FBFB}|Mub.csproj|solutionrelative:assets\\user\\jh\\2.kimjh\\4.scipt\\footprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,10 +27,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Temp\\GeneratedFromGraph-Lit_alt.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Library\\PackageCache\\io.spatial.unitysdk@1.67.0\\Runtime\\CoreModule\\Components\\SpatialNetworkObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,24 +58,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FootPrint.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\2.Kimjh\\4.Scipt\\FootPrint.cs",
-              "RelativeDocumentMoniker": "Assets\\User\\JH\\2.Kimjh\\4.Scipt\\FootPrint.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\2.Kimjh\\4.Scipt\\FootPrint.cs",
-              "RelativeToolTip": "Assets\\User\\JH\\2.Kimjh\\4.Scipt\\FootPrint.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAiwGgAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DronCTL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\6.anim\\DronCTL.cs",
+              "RelativeDocumentMoniker": "Assets\\User\\JH\\6.anim\\DronCTL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\6.anim\\DronCTL.cs",
+              "RelativeToolTip": "Assets\\User\\JH\\6.anim\\DronCTL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T14:02:23.24Z",
+              "WhenOpened": "2025-06-04T12:58:03.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "BackgroundWorker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv0QAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:28:05.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DronAnim.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\6.anim\\DronAnim.cs",
+              "RelativeDocumentMoniker": "Assets\\User\\JH\\6.anim\\DronAnim.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\6.anim\\DronAnim.cs",
+              "RelativeToolTip": "Assets\\User\\JH\\6.anim\\DronAnim.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:30:58.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BuildUtility.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Library\\PackageCache\\io.spatial.unitysdk@1.67.0\\Editor\\Scripts\\Utilities\\BuildUtility.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\io.spatial.unitysdk@1.67.0\\Editor\\Scripts\\Utilities\\BuildUtility.cs",
@@ -80,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "SpatialNetworkObject.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Library\\PackageCache\\io.spatial.unitysdk@1.67.0\\Runtime\\CoreModule\\Components\\SpatialNetworkObject.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\io.spatial.unitysdk@1.67.0\\Runtime\\CoreModule\\Components\\SpatialNetworkObject.cs",
@@ -92,21 +126,24 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BackgroundWorker.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwEQAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T21:21:05.595Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
+              "Title": "FootPrint.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\2.Kimjh\\4.Scipt\\FootPrint.cs",
+              "RelativeDocumentMoniker": "Assets\\User\\JH\\2.Kimjh\\4.Scipt\\FootPrint.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\2.Kimjh\\4.Scipt\\FootPrint.cs",
+              "RelativeToolTip": "Assets\\User\\JH\\2.Kimjh\\4.Scipt\\FootPrint.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:02:23.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Skybox.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\2.Kimjh\\4.Scipt\\Skybox.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\2.Kimjh\\4.Scipt\\Skybox.cs",
@@ -114,24 +151,22 @@
               "RelativeToolTip": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\2.Kimjh\\4.Scipt\\Skybox.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T03:33:21.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T03:33:21.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GeneratedFromGraph-Lit_Mud_floor.shader",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Temp\\GeneratedFromGraph-Lit_Mud_floor.shader",
               "RelativeDocumentMoniker": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Temp\\GeneratedFromGraph-Lit_Mud_floor.shader",
               "ToolTip": "C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Temp\\GeneratedFromGraph-Lit_Mud_floor.shader",
               "RelativeToolTip": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Temp\\GeneratedFromGraph-Lit_Mud_floor.shader",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-05-01T08:14:49.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T08:14:49.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "GeneratedFromGraph-Lit_alt.shader",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Temp\\GeneratedFromGraph-Lit_alt.shader",
               "RelativeDocumentMoniker": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Temp\\GeneratedFromGraph-Lit_alt.shader",
@@ -139,48 +174,44 @@
               "RelativeToolTip": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Temp\\GeneratedFromGraph-Lit_alt.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-05-01T08:13:25.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T08:13:25.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "fluid.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\3D_Asset\\fluid.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\3D_Asset\\fluid.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\3D_Asset\\fluid.cs",
               "RelativeToolTip": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\3D_Asset\\fluid.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T02:07:30.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T02:07:30.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "SOUND.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\2.Kimjh\\4.Scipt\\SOUND.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\2.Kimjh\\4.Scipt\\SOUND.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\2.Kimjh\\4.Scipt\\SOUND.cs",
               "RelativeToolTip": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\2.Kimjh\\4.Scipt\\SOUND.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T23:28:51.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T23:28:51.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Skybox.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\Kimjh\\4.Scipt\\Skybox.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\Kimjh\\4.Scipt\\Skybox.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\Kimjh\\4.Scipt\\Skybox.cs",
               "RelativeToolTip": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\Kimjh\\4.Scipt\\Skybox.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T01:58:35.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T01:58:35.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Decal_col.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\Kimjh\\4.Scipt\\Decal_col.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\Kimjh\\4.Scipt\\Decal_col.cs",
@@ -188,24 +219,18 @@
               "RelativeToolTip": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\Kimjh\\4.Scipt\\Decal_col.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAADwvxUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T23:55:37.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T23:55:37.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Decal_col.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\2.Kimjh\\4.Scipt\\Decal_col.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\2.Kimjh\\4.Scipt\\Decal_col.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\2.Kimjh\\4.Scipt\\Decal_col.cs",
               "RelativeToolTip": "..\\..\\..\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\2.Kimjh\\4.Scipt\\Decal_col.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T08:07:51.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-04-29T08:07:51.102Z"
             }
           ]
         }

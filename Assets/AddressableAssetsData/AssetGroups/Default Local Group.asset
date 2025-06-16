@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 563832f54f731b84a89dcd66ba0f9a68
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: b738213112d420943adfe22530bc0bbf
+    m_Address: Assets/User/JH/2.Kimjh/shader/road/Road.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: ea0ab2b3510029f44b57cb72abb82bf7, type: 2}
   m_SchemaSet:
