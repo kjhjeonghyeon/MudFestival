@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2070586383361181333}
   - component: {fileID: 3104080536009574704}
   - component: {fileID: 934250102940171770}
+  - component: {fileID: 7514917128906894517}
   m_Layer: 0
   m_Name: white tent (8)
   m_TagString: Untagged
@@ -25,9 +26,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1727099623454104623}
-  m_LocalRotation: {x: -0, y: -0.35075352, z: -0, w: 0.9364678}
+  m_LocalRotation: {x: 0, y: -0.350755, z: 0, w: 0.9364673}
   m_LocalPosition: {x: 128.6, y: 0.91, z: 50.7}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+  m_LocalScale: {x: 1.1999999, y: 1.1999999, z: 1.1999999}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -84,3 +85,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7514917128906894517
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1727099623454104623}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -462981019419857548, guid: a4d33411246d9d14bb82510ed5a304de, type: 3}
