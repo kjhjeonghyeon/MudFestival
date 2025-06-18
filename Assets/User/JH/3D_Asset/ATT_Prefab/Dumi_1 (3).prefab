@@ -192,6 +192,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1205294506889527194}
   - component: {fileID: 8525621297283088936}
+  - component: {fileID: 1169342609}
+  - component: {fileID: 1169342608}
+  - component: {fileID: 1169342607}
   m_Layer: 0
   m_Name: Dumi_1 (3)
   m_TagString: Untagged
@@ -231,8 +234,47 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 3.361168, y: 5.3095593, z: 3.4329987}
-  m_Center: {x: 0.026950836, y: -2.1547797, z: -0.00642395}
+  m_Size: {x: 0.2129631, y: 5.3095593, z: 0.21520996}
+  m_Center: {x: -1.5697231, y: -2.1547797, z: 1.7491074}
+--- !u!65 &1169342609
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2013602006799836448}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.398983, y: 5.3095593, z: 0.4550743}
+  m_Center: {x: 1.5080433, y: -2.1547797, z: -1.712801}
+--- !u!65 &1169342608
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2013602006799836448}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.16492462, y: 5.3095593, z: 0.28474808}
+  m_Center: {x: 1.5587273, y: -2.1547797, z: 1.5950298}
+--- !u!65 &1169342607
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2013602006799836448}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.30513, y: 5.3095593, z: 0.25437927}
+  m_Center: {x: -1.5800514, y: -2.1547797, z: -1.5841751}
 --- !u!1 &5575491337912036212
 GameObject:
   m_ObjectHideFlags: 0

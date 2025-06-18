@@ -14,28 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   sku: iinmdjhw5lsmvbpet4s90xkg
-  packageName: Square
-  thumbnail: {fileID: 2800000, guid: e2d1a7bfc0ca9984d8201bd38ca65c9e, type: 3}
+  packageName: Square_night
+  thumbnail: {fileID: 2800000, guid: 63ddbc7be5c58af458ba26d86c9e062d, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: acd41ecdda3cd9f46871bd87e1bc5669,
     type: 2}
   worldID: i421yo75vw0hkv0tyjhka
-  scene: {fileID: 102900000, guid: 260841462a0098c4ea1b7bc5a722a688, type: 3}
+  scene: {fileID: 102900000, guid: 1c368d377d33e2c479607eb483616af6, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: 4690825971c2f8d4d9a1e425a7ba0a77,
     type: 3}
   embeddedPackageAssets: []
-  networkPrefabs:
-  - referenceType: 2
-    networkObject: {fileID: 6480176481154807296, guid: e6a4ca409cf03a944b95c07bccb4639c,
-      type: 3}
-  - referenceType: 2
-    networkObject: {fileID: 2432589797781502965, guid: 7a4ac12886fcae245a6bc7466fa672fd,
-      type: 3}
-  - referenceType: 2
-    networkObject: {fileID: 5022466655677367684, guid: 2b004c73689229340af77f07a5776556,
-      type: 3}
-  - referenceType: 2
-    networkObject: {fileID: 8728842926385338632, guid: 73f8cbf00db71424bb67ba4305ea7387,
-      type: 3}
+  networkPrefabs: []
   settings:
     serverInstancingEnabled: 1
     serverCapacitySetting: 1

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_6
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: hhqop3fq27t3uq2dvdxq02lt
+  packageName: Mud_night
+  thumbnail: {fileID: 2800000, guid: 63ddbc7be5c58af458ba26d86c9e062d, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: acd41ecdda3cd9f46871bd87e1bc5669,
+    type: 2}
+  worldID: i421yo75vw0hkv0tyjhka
+  scene: {fileID: 102900000, guid: 1c368d377d33e2c479607eb483616af6, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 4690825971c2f8d4d9a1e425a7ba0a77,
+    type: 3}
+  embeddedPackageAssets: []
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 1
+    serverInstanceCapacity: 16

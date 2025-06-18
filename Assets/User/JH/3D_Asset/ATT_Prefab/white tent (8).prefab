@@ -11,7 +11,10 @@ GameObject:
   - component: {fileID: 2070586383361181333}
   - component: {fileID: 3104080536009574704}
   - component: {fileID: 934250102940171770}
-  - component: {fileID: 7514917128906894517}
+  - component: {fileID: 3821017547184117855}
+  - component: {fileID: 6298146503514951502}
+  - component: {fileID: 4556829870951159879}
+  - component: {fileID: 3816011065428722423}
   m_Layer: 0
   m_Name: white tent (8)
   m_TagString: Untagged
@@ -85,8 +88,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &7514917128906894517
-MeshCollider:
+--- !u!65 &3821017547184117855
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -95,7 +98,45 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -462981019419857548, guid: a4d33411246d9d14bb82510ed5a304de, type: 3}
+  serializedVersion: 2
+  m_Size: {x: 0.25725982, y: 3.4431734, z: 0.2014351}
+  m_Center: {x: -1.9642199, y: -0.27850828, z: 2.9925287}
+--- !u!65 &6298146503514951502
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1727099623454104623}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.22678992, y: 3.4431734, z: 0.22819838}
+  m_Center: {x: -1.9794554, y: -0.27850828, z: -2.979201}
+--- !u!65 &4556829870951159879
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1727099623454104623}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.40039065, y: 3.4431734, z: 0.15952846}
+  m_Center: {x: 1.8926655, y: -0.27850828, z: 3.0134745}
+--- !u!65 &3816011065428722423
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1727099623454104623}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.2260244, y: 3.4431734, z: 0.23136558}
+  m_Center: {x: 1.9798474, y: -0.27850828, z: -2.977605}

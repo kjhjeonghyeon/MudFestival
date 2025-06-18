@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   sku: mrqvmkx73wi5c7xzts2rp5p9
-  packageName: MUD_NIGHT
-  thumbnail: {fileID: 2800000, guid: 27181fc40c2139048819d2c595d37d11, type: 3}
-  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+  packageName: MUD_Day
+  thumbnail: {fileID: 2800000, guid: 9c16eb8f678307c4699603baed88d4a8, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: acd41ecdda3cd9f46871bd87e1bc5669,
     type: 2}
-  worldID: azr4rrr0pant7uf7k0x87
-  scene: {fileID: 102900000, guid: 9fc2336918ed53d48b3646fc9b029e1b, type: 3}
+  worldID: i421yo75vw0hkv0tyjhka
+  scene: {fileID: 102900000, guid: 260841462a0098c4ea1b7bc5a722a688, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: 4690825971c2f8d4d9a1e425a7ba0a77,
     type: 3}
   embeddedPackageAssets: []
