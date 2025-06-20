@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C8C7AB8-203B-D811-2C6A-F85978752B44}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\kimjh\\github\\mudfestival\\assets\\user\\jh\\6.anim\\dronanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8C7AB8-203B-D811-2C6A-F85978752B44}|Assembly-CSharp.csproj|solutionrelative:assets\\user\\jh\\6.anim\\dronanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Library\\PackageCache\\io.spatial.unitysdk@1.67.0\\Runtime\\CoreModule\\Components\\SpatialQuest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\io.spatial.unitysdk@1.67.0\\Runtime\\CoreModule\\Components\\SpatialQuest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C8C7AB8-203B-D811-2C6A-F85978752B44}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\assets\\user\\jh\\6.anim\\dronctl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C8C7AB8-203B-D811-2C6A-F85978752B44}|Assembly-CSharp.csproj|solutionrelative:assets\\user\\jh\\6.anim\\dronctl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\6.anim\\DronAnim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\User\\JH\\6.anim\\DronAnim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,6 +49,10 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\uAE40\uC815\uD604\\GItHub\\MudFestival\\Assets\\2.Kimjh\\4.Scipt\\Skybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\6.anim\\DronCTL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\User\\JH\\6.anim\\DronCTL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,8 +62,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpatialQuest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Library\\PackageCache\\io.spatial.unitysdk@1.67.0\\Runtime\\CoreModule\\Components\\SpatialQuest.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\io.spatial.unitysdk@1.67.0\\Runtime\\CoreModule\\Components\\SpatialQuest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Library\\PackageCache\\io.spatial.unitysdk@1.67.0\\Runtime\\CoreModule\\Components\\SpatialQuest.cs",
+              "RelativeToolTip": "Library\\PackageCache\\io.spatial.unitysdk@1.67.0\\Runtime\\CoreModule\\Components\\SpatialQuest.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwHIAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:29:46.246Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -70,21 +87,18 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Core\\Threading\\BackgroundWorker.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAADwv0QAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T12:28:05.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T12:28:05.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DronAnim.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\6.anim\\DronAnim.cs",
               "RelativeDocumentMoniker": "Assets\\User\\JH\\6.anim\\DronAnim.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\6.anim\\DronAnim.cs",
               "RelativeToolTip": "Assets\\User\\JH\\6.anim\\DronAnim.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T11:30:58.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T11:30:58.744Z"
             },
             {
               "$type": "Document",
@@ -96,8 +110,7 @@
               "RelativeToolTip": "Library\\PackageCache\\io.spatial.unitysdk@1.67.0\\Editor\\Scripts\\Utilities\\BuildUtility.cs",
               "ViewState": "AgIAAEwBAAAAAAAAAAApwFwBAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T04:04:07.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T04:04:07.555Z"
             },
             {
               "$type": "Document",
@@ -109,12 +122,11 @@
               "RelativeToolTip": "Library\\PackageCache\\io.spatial.unitysdk@1.67.0\\Runtime\\CoreModule\\Components\\SpatialNetworkObject.cs",
               "ViewState": "AgIAAKcAAAAAAAAAAAAgwMAAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T04:16:15.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T04:16:15.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "DronCTL.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\6.anim\\DronCTL.cs",
               "RelativeDocumentMoniker": "Assets\\User\\JH\\6.anim\\DronCTL.cs",
@@ -123,10 +135,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T12:58:03.526Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",

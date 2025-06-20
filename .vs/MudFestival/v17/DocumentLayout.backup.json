@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8C8C7AB8-203B-D811-2C6A-F85978752B44}|Assembly-CSharp.csproj|solutionrelative:assets\\user\\jh\\6.anim\\dronanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C8C7AB8-203B-D811-2C6A-F85978752B44}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\kimjh\\github\\mudfestival\\assets\\user\\jh\\6.anim\\dronctl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C8C7AB8-203B-D811-2C6A-F85978752B44}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\assets\\user\\jh\\6.anim\\dronctl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C8C7AB8-203B-D811-2C6A-F85978752B44}|Assembly-CSharp.csproj|solutionrelative:assets\\user\\jh\\6.anim\\dronctl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,21 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DronCTL.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\6.anim\\DronCTL.cs",
-              "RelativeDocumentMoniker": "Assets\\User\\JH\\6.anim\\DronCTL.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\6.anim\\DronCTL.cs",
-              "RelativeToolTip": "Assets\\User\\JH\\6.anim\\DronCTL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T12:58:03.526Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -124,6 +111,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T04:16:15.491Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DronCTL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\6.anim\\DronCTL.cs",
+              "RelativeDocumentMoniker": "Assets\\User\\JH\\6.anim\\DronCTL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Kimjh\\GItHub\\MudFestival\\Assets\\User\\JH\\6.anim\\DronCTL.cs",
+              "RelativeToolTip": "Assets\\User\\JH\\6.anim\\DronCTL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:58:03.526Z"
             },
             {
               "$type": "Bookmark",
