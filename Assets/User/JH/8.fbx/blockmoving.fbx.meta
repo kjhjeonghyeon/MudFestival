@@ -8,22 +8,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: T
-    second: {fileID: 2100000, guid: 4ddc4fb93f5507745bc8ebd9da25283c, type: 2}
+    second: {fileID: 2100000, guid: c1368dca3b8615d46bdde71d7f271e59, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: T2
-    second: {fileID: 2100000, guid: 0ba1bfdbaf4608e4a8baaa211da9e5b5, type: 2}
+    second: {fileID: 2100000, guid: f6acd2d2d58cd564596628b521fc74d2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: T3
-    second: {fileID: 2100000, guid: 94f3903b482272c4389bb184e6c158e6, type: 2}
+    second: {fileID: 2100000, guid: fc08f3eeb1b8a394db0b64095b8d43c1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: T4
-    second: {fileID: 2100000, guid: cfa97e9198833434a80d1916a433c57f, type: 2}
+    second: {fileID: 2100000, guid: 564980996c7fd5a489b52353dd0effe3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -114,7 +114,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.005
+    globalScale: 0.5
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
